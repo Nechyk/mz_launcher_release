@@ -1,12 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace mz_launcher
-{
-    class versions
-    {
-    }
-}
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <version>1.0.0.0</version>
+    <url>http://rbsoft.org/downloads/AutoUpdaterTest.zip</url>
+</item>
